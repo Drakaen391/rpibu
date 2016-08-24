@@ -1,5 +1,5 @@
 #!/bin/bash
-#version alpha_0.01
+#version Beta-2
 #Created by Drakaen391
 #Retropie Back up Script
 
